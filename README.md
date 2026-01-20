@@ -3,6 +3,10 @@ This repository contains the python code used to to forecast: (i) the closing pr
 
 Link to the paper: https://www.mdpi.com/1099-4300/24/5/657
 
+<p align="center">
+  <img src="plot_stock_price_LSTM_GRU_RNN.png" width="400">
+</p>
+
 If you use our code, plese do well to cite us:
 
 **MDPI and ACS Style**
